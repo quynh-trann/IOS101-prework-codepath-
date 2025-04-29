@@ -19,6 +19,14 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 
 [Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
 
+<div>
+    <a href="https://www.loom.com/share/b510258750cb44738e8893eb730f22f5">
+    </a>
+    <a href="https://www.loom.com/share/b510258750cb44738e8893eb730f22f5">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/b510258750cb44738e8893eb730f22f5-160e4d32b42aa76c-full-play.gif">
+    </a>
+  </div>
+
 ## App Brainstorming (Step 4)
 +Locket: -we can hear the music when user attached to their picture
         -we can upload the picture from library
